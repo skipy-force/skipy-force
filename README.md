@@ -57,7 +57,7 @@ Constantly trying to make the internet less broken
  
 ## 📊 Activity & Stats
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=skkips&theme=dark&background=1e1e1e&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=skipy-force&theme=dark&background=1e1e1e&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)](https://git.io/streak-stats)
  
 ---
  
