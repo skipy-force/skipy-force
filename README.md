@@ -38,6 +38,7 @@ Constantly trying to make the internet less broken
 ### 🔧 Backend & Architecture
 ![Node.js](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
  
@@ -53,19 +54,16 @@ Constantly trying to make the internet less broken
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  
+### 🐹 Go Frameworks
+![Gorilla/Mux](https://img.shields.io/badge/Gorilla/Mux-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
+
+ 
 ---
  
 ## 📊 Activity & Stats
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=skipy-force&theme=dark&background=1e1e1e&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)](https://git.io/streak-stats)
-
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skipydev&layout=compact&theme=dark&bg_color=0d1117&title_color=FF6B9D&text_color=c9cacc&hide_border=true)
- 
- 
-### Contribution Activity
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skipydev&theme=dark-dimmed&bg_color=0d1117&color=FF6B9D&line=FF6B9D&point=FF6B9D&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
  
 ---
  
