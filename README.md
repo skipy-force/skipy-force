@@ -1,8 +1,7 @@
 # こんにちは 👋 I'm skipyy!
  
 <div align="center">
-![Profile views](https://komarev.com/ghpvc/?username=skipydev&color=FF6B9D&style=flat-square&label=profile+views)
-![GitHub followers](https://img.shields.io/github/followers/skipydev?style=flat-square&color=FF6B9D)
+![Profile views](https://komarev.com/ghpvc/?username=skipydev&color=FF6B9D&style=flat-square&label=)
  
 ### 💻 Full-Stack Developer | 🔐 Cybersecurity Enthusiast | 🎮 Anime Trash
  
@@ -63,12 +62,10 @@ Constantly trying to make the internet less broken
 </div>
 ---
  
-## 📊 GitHub Stats
+## 📊 Activity & Stats
  
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skipydev&show_icons=true&theme=dark&bg_color=1e1e1e&title_color=FF6B9D&text_color=ffffff&icon_color=FF6B9D)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skipydev&theme=dark&bg_color=1e1e1e&title_color=FF6B9D&text_color=ffffff&langs_count=8&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=skipydev&theme=dark&background=1e1e1e&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)](https://git.io/streak-stats)
  
 </div>
 ---
@@ -108,10 +105,9 @@ Looking for: Backend & Full-Stack roles | Cybersecurity projects | Interesting c
 ## 🤝 Let's Connect
  
 <div align="center">
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skipydev)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/skipydev)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/skipydev)
-[![Email](https://img.shields.io/badge/email-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[GitHub](https://github.com/skipydev) • [LinkedIn](https://linkedin.com) • [Twitter](https://twitter.com) • [Email](mailto:your-email@example.com)
+ 
+*Feel free to reach out for collaborations or just to chat about tech, anime, or whatever*
  
 </div>
 ---
