@@ -58,6 +58,16 @@ Constantly trying to make the internet less broken
 ## 📊 Activity & Stats
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=skipy-force&theme=dark&background=1e1e1e&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)](https://git.io/streak-stats)
+
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skipydev&layout=compact&theme=dark&bg_color=0d1117&title_color=FF6B9D&text_color=c9cacc&hide_border=true)
+ 
+### Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=skipydev&theme=dark&background=0d1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D&hide_border=true)](https://git.io/streak-stats)
+ 
+### Contribution Activity
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skipydev&theme=dark-dimmed&bg_color=0d1117&color=FF6B9D&line=FF6B9D&point=FF6B9D&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
  
 ---
  
