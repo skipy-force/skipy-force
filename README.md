@@ -20,7 +20,7 @@ Constantly trying to make the internet less broken
 - Offensive security & HackTheBox labs
 - Obsessed with clean code & system design
 - Forever improving, forever debugging
-- Асука >> Рей (это факт)
+- Asuka >> Ray (lol)
 ```
  
 ---
