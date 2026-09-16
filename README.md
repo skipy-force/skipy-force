@@ -112,8 +112,7 @@ Looking for: Backend & Full-Stack roles | Cybersecurity projects | Interesting c
     ┃      Last updated: 2025           ┃
     ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
-
-
+<pre>
 #############%#########################
 ###...#################################
 #-.##..################################
@@ -145,5 +144,6 @@ Looking for: Backend & Full-Stack roles | Cybersecurity projects | Interesting c
 %%%%%%%%%%%%%%%%%%%%%%%#########%%%####
 %%%%%%%%%%%%%%%%%%%%#%%%#########%#####
 %%%%%%%%%%%%%%%%%%#%%%%################
+</pre>
 
 
