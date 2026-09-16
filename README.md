@@ -1,7 +1,7 @@
 # こんにちは 👋 I'm skipyy!
  
 <div align="center">
-![Profile views](https://komarev.com/ghpvc/?username=skipydev&color=FF6B9D&style=flat-square&label=)
+![Profile views](https://komarev.com/ghpvc/?username=skipydev&color=FF6B9D&style=flat-square&label=profile+views)
  
 ### 💻 Full-Stack Developer | 🔐 Cybersecurity Enthusiast | 🎮 Anime Trash
  
