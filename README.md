@@ -1,4 +1,7 @@
 # こんにちは 👋 I'm skipyy!
+
+
+
  
 ![Profile views](https://komarev.com/ghpvc/?username=skipydev&color=FF6B9D&style=flat-square&label=)
  
@@ -94,6 +97,7 @@ const interests = {
 🟢 **OPEN TO OPPORTUNITIES**
  
 Looking for: Backend & Full-Stack roles | Cybersecurity projects | Interesting challenges
+Also u can visit my homepage and find some information about me - https://skipydev.github.io/skipy.dev/
  
 ---
  
