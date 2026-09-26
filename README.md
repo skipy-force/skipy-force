@@ -99,7 +99,7 @@ const interests = {
 Looking for: Backend & Full-Stack roles | Cybersecurity projects | Interesting challenges
 
 
-Also u can visit my homepage and find some information about me - https://skipydev.github.io/skipy.dev/
+ *Also u can visit my homepage and find some information about me* - https://skipydev.github.io/skipy.dev/
  
 ---
  
