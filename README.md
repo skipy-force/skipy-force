@@ -139,5 +139,3 @@ rn I'm ooking for: backend & full-stack roles | Cybersecurity prod/projects | di
 
                        ///right from my terminal tho
 ```
-
-
