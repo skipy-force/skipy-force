@@ -19,11 +19,11 @@ Backend architect | Frontend enthusiast | Security nerd
 Constantly trying to make the internet less broken
  
 ❯  cat ~/dev/brain
-lrwxrwxrwx Full-stack development with TypeScript/JavaScript
-drwxr-xr-x Offensive security & HackTheBox labs
-.rw-r--r-- with clean code & system design
-.rw-r--r-- Forever improving, forever debugging
-drwxr-xr-x Asuka >> Ray (lol)
+- Full-stack development with TypeScript/JavaScript
+- Offensive security & HackTheBox labs
+- with clean code & system design
+- Forever improving, forever debugging
+- Asuka >> Ray (lol)
 ```
  
 ---
