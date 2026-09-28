@@ -1,6 +1,4 @@
-# こんにちは 👋 I'm skipyy!
-
-
+# こんにちは 👋 I'm skipyyy!
 
 
  
