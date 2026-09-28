@@ -14,16 +14,16 @@
 ## 🎯 About Me
  
 ```
-> whoami
-Backend architect × Frontend enthusiast × Security nerd
+❯  whoami
+Backend architect | Frontend enthusiast | Security nerd
 Constantly trying to make the internet less broken
  
-> cat /dev/brain
-- Full-stack development with TypeScript/JavaScript
-- Offensive security & HackTheBox labs
-- Obsessed with clean code & system design
-- Forever improving, forever debugging
-- Asuka >> Ray (lol)
+❯  cat ~/dev/brain
+lrwxrwxrwx Full-stack development with TypeScript/JavaScript
+drwxr-xr-x Offensive security & HackTheBox labs
+.rw-r--r-- with clean code & system design
+.rw-r--r-- Forever improving, forever debugging
+drwxr-xr-x Asuka >> Ray (lol)
 ```
  
 ---
@@ -87,6 +87,7 @@ const interests = {
   hobbies: ['anime (obviously)', 'CTF challenges', 'open source'],
   coffee: '☕☕☕',
   status: 'always debugging something'
+  employment: work[]
 };
 ```
  
@@ -96,7 +97,7 @@ const interests = {
  
 🟢 **OPEN TO OPPORTUNITIES**
  
-Looking for: Backend & Full-Stack roles | Cybersecurity projects | Interesting challenges
+rn I'm ooking for: backend & full-stack roles | Cybersecurity prod/projects | different challenges | new friends also
 
 
  *Also u can visit my homepage and find some information about me* - https://skipydev.github.io/skipy.dev/
