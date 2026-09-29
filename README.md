@@ -4,7 +4,7 @@
  
 ![Profile views](https://komarev.com/ghpvc/?username=skipydev&color=FF6B9D&style=flat-square&label=)
  
-## 💻 Full-Stack Developer | 🔐 Cybersecurity Enthusiast | 🎮 Anime Trash
+## 💻 Full-Stack Developer | 🔐 Cybersecurity Nerd | Amateur QA
 
  
 *Building things that work. Breaking things that shouldn't. Learning along the way.*
