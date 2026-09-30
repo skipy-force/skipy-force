@@ -22,7 +22,7 @@ Constantly trying to make the internet less broken
 ❯  cat ~/dev/brain
 - Full-stack development with TypeScript/JavaScript
 - Offensive security & HackTheBox labs
-- with clean code & system design
+- without spaghetti and useless code & system design
 - Forever improving, forever debugging
 - Asuka >> Ray (lol)
 ```
