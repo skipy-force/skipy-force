@@ -1,4 +1,4 @@
-# こんにちは 👋 I'm skipyyy!
+# こんにちは 👋 I'm skipyyyyyy!
 
 
  
@@ -118,7 +118,6 @@ rn I'm ooking for: backend & full-stack roles | Cybersecurity prod/projects | di
                        ┃  Made with ❤️ and way too much ☕  ┃
                        ┃      Last updated: 2026            ┃
                        ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-                   
                              ⠀⠀  ⠓⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    
                            ⠀⠀⠀⠀⠀⢸⠀⠀⠑⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    
                            ⠀⠀⠀⠀⠀⢸⡆⠀⠀⠀⠙⢤⡷⣤⣦⣀⠤⠖⠚⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀   
@@ -135,7 +134,6 @@ rn I'm ooking for: backend & full-stack roles | Cybersecurity prod/projects | di
                            ⠀⠀⠀⠙⣶⣶⣿⠢⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    
                            ⠀⠀⠀⠀⠀⠉⠀⠀⠀⠙⢿⣳⠞⠳⡄⠀⠀⠀⢀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
                            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠹⣄⣀⡤⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
 
                        ///right from my terminal tho
 ```
