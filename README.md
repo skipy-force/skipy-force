@@ -14,7 +14,7 @@
  
 ## 🎯 About Me
  
-```
+```bash
 ❯  whoami
 
 Backend architect | Frontend enthusiast | Security nerd
@@ -79,6 +79,8 @@ Constantly trying to make the internet less broken
 - 🏗️ Microservices Architecture & System Design
 - 🔄 CI/CD Pipelines & DevOps Best Practices
 - 🎯 Performance Optimization & Scalability
+
+
 ---
  
 ## 💡 What I'm Into
