@@ -1,6 +1,4 @@
 # こんにちは 👋 I'm skipyyyyyy!
-
-
  
 ![Profile views](https://komarev.com/ghpvc/?username=skipydev&color=FF6B9D&style=flat-square&label=)
  
