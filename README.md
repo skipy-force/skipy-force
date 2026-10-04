@@ -16,7 +16,7 @@
 ❯  whoami
 
 Backend architect | Frontend enthusiast | Security nerd
-Constantly trying to make the internet less broken
+~Constantly trying to make the internet less broken
  
 ❯  cat ~/dev/brain
 
@@ -107,7 +107,7 @@ const interests = {
 rn I'm ooking for: backend & full-stack roles | Cybersecurity prod/projects | different challenges | new friends also
 
 
- *Also u can visit my homepage and find some information about me* - https://skipydev.github.io/skipy.dev/
+ *Also u can visit my homepage and find some more information about me* - https://skipydev.github.io/skipy.dev/
  
 ---
  
