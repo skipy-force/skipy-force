@@ -1,4 +1,4 @@
-# こんにちは 👋 I'm skipyy!
+# こんにちは 👋 I'm skipyyy!
  
 ![Profile views](https://komarev.com/ghpvc/?username=skipydev&color=FF6B9D&style=flat-square&label=)
  
