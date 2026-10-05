@@ -89,7 +89,7 @@ Backend architect | Frontend enthusiast | Security nerd
  
 ## 💡 What I'm Into
  
-```javascript
+```typescript
 const interests = {
   work: ['backend development', 'full-stack projects', 'security'],
   learning: ['cybersecurity', 'system design', 'algorithms'],
