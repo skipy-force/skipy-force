@@ -115,7 +115,7 @@ const interests = {
  
 🟢 **OPEN TO OPPORTUNITIES**
  
-rn I'm ooking for: backend & full-stack roles | Cybersecurity prod/projects | different challenges | new friends also
+rn I'm looking for: backend & full-stack roles | Cybersecurity prod/projects | different challenges | new friends also
 
 
  *Also u can visit my homepage and find some more information about me* - https://skipydev.github.io/skipy.dev/
