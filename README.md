@@ -41,6 +41,8 @@ Backend architect | Frontend enthusiast | Security nerd
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
+
+
  
 ### 🔧 Backend & Architecture
 ![Node.js](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
@@ -49,11 +51,15 @@ Backend architect | Frontend enthusiast | Security nerd
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
+
+
  
 ### 🗄️ Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+
 
  
 ### 🚀 DevOps & Infrastructure
@@ -62,6 +68,8 @@ Backend architect | Frontend enthusiast | Security nerd
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
 
  
 ### 🐹 Go Frameworks
@@ -72,6 +80,7 @@ Backend architect | Frontend enthusiast | Security nerd
 ---
  
 ## 📊 Activity & Stats
+
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=skipy-force&theme=dark&background=1e1e1e&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)](https://git.io/streak-stats)
  
