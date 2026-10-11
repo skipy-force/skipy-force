@@ -17,10 +17,12 @@
 ```bash
 ❯  whoami
 
+
 Backend architect | Frontend enthusiast | Security nerd
 ~Constantly trying to make the internet less broken
  
 ❯  cat ~/dev/brain
+
 
 - Full-stack development with TypeScript/JavaScript
 - Offensive security & HackTheBox labs
