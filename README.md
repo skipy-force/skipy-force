@@ -104,7 +104,6 @@ const interests = {
   hobbies: ['anime (obviously)', 'CTF challenges', 'open source'],
   coffee: '☕☕☕',
   status: 'always debugging something'
-  employment: work[]
 };
 ```
  
