@@ -38,7 +38,6 @@ Backend architect | Frontend enthusiast | Security nerd
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 
-
  
 ### 🔧 Backend & Architecture
 ![Node.js](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
@@ -48,13 +47,11 @@ Backend architect | Frontend enthusiast | Security nerd
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 
-
  
 ### 🗄️ Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
 
 
  
@@ -67,7 +64,6 @@ Backend architect | Frontend enthusiast | Security nerd
 
 
 
- 
 ### 🐹 Go Frameworks
 ![Gorilla/Mux](https://img.shields.io/badge/Gorilla/Mux-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
@@ -130,7 +126,7 @@ rn I'm looking for: backend & full-stack roles | Cybersecurity prod/projects | d
 ---
 ```
                        ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-                       ┃  Made with ❤️ and way too much ☕  ┃
+                       ┃  Made with ❤️ and way 2 much ☕  ┃
                        ┃      Last updated: 2026            ┃
                        ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
                              ⠀⠀  ⠓⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    
