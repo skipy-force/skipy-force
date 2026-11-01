@@ -7,7 +7,6 @@
 *No man, for any considerable period, can wear one face to himself, and another to the multitude, without finally getting bewildered as to which may be the true*
  
 ---
-
 ## 🎯 About Me
 
  
