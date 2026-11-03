@@ -22,7 +22,7 @@ Backend architect | Frontend enthusiast | Security nerd
 - Offensive security & HackTheBox labs
 - without spaghetti and useless code & system design
 - Forever improving, forever debugging
-- Asuka >> Ray (lol)
+- Asuka > Ray (lol)
 ```
  
 ---
