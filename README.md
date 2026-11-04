@@ -5,6 +5,7 @@
 ## 💻 Fullstack Developer | 🔐 Cybersecurity Nerd | 🎯 Junior QA
 
 *No man, for any considerable period, can wear one face to himself, and another to the multitude, without finally getting bewildered as to which may be the true*
+N. Hawthorne
  
 ---
 ## 🎯 About Me
