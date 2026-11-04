@@ -3,8 +3,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=skipydev&color=FF6B9D&style=flat-square&label=)
  
 ## 💻 Fullstack Developer | 🔐 Cybersecurity Nerd | 🎯 Junior QA
-
+---
 *No man, for any considerable period, can wear one face to himself, and another to the multitude, without finally getting bewildered as to which may be the true*
+---
 N. Hawthorne
  
 ---
