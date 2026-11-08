@@ -136,7 +136,7 @@ Rn I'm looking for: backend & full-stack roles | Cybersecurity prod/projects | d
 ---
 ```
                        ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-                       ┃  Made with ❤️ and way 2 much ☕  ┃
+                       ┃  Made with ❤️ and way 2 much ☕    ┃
                        ┃      Last updated: 2026            ┃
                        ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
                              ⠀⠀  ⠓⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    
